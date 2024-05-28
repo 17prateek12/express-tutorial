@@ -8,4 +8,5 @@
 6. nodemon
 7. dotenv etc..
 
-# Video tutotial https://www.youtube.com/watch?v=H9M02of22z4
+Video tutotial guidance from Dipesh Malvia
+https://www.youtube.com/watch?v=H9M02of22z4
